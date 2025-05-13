@@ -4,7 +4,7 @@
 ## Reason: C# and Visual Studio WPF application Tutorial 
 
 ### Description
-A tutorial describing the development of a WPF application usin C# and XAML
+A tutorial describing the development of a WPF application using C# and XAML
 
 This tutorial covers the follwing topics:
 
